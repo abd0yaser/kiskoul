@@ -63,6 +63,7 @@
 .item {
   display: flex;
   margin-bottom: 14px;
+  flex-direction: row;
 }
 .vide {
   flex-shrink: 0;
@@ -120,6 +121,6 @@
   text-align: right;
   width: 284px;
 }
-svg {
+img {
   margin-left: 6px;
 }
